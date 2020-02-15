@@ -27,7 +27,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -271,7 +271,7 @@
       <workItem from="1581508785554" duration="9416000" />
       <workItem from="1581575619218" duration="20873000" />
       <workItem from="1581645515451" duration="9000" />
-      <workItem from="1581754750431" duration="2334000" />
+      <workItem from="1581754750431" duration="2957000" />
     </task>
     <servers />
   </component>
@@ -307,10 +307,10 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state width="1397" height="235" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1581759009840" />
-    <state x="222" y="103" key="SettingsEditor" timestamp="1581759076313">
+    <state x="222" y="103" key="SettingsEditor" timestamp="1581759575360">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="222" y="103" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1581759076313" />
+    <state x="222" y="103" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1581759575360" />
     <state x="417" y="289" key="com.intellij.ide.util.TipDialog" timestamp="1581645517937">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
