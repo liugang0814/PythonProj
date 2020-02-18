@@ -345,7 +345,7 @@ class Bugzilla:
 
 
 if __name__ == '__main__':
-    bz = Bugzilla("icecream.ma", "123@abAB")
+    bz = Bugzilla("*", "*")
     ret = bz.login()
     if ret is True:
         print("Login success!")
